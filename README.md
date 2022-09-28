@@ -16,7 +16,15 @@ Parts list
 * PCB [fooprint/Schemas/IMG/PDG](https://github.com/PetrOdst/mini_cnc_jog/tree/main/PCB)
 * 3DPrinted Housing [STL](https://github.com/PetrOdst/mini_cnc_jog/tree/main/3Dmodels)
 
+### 3DPrinting instruction
+Feel free to use your favorit settings, but this is what work out for me :
+* Material    : Pet-G [Prusament](https://www.prusa3d.com/cs/kategorie/prusament-petg/)
+* Layer hight : 0.20 mm
+* Infill      : 10%
+* Support     : no
+* brim        : no
 
+see at [Printables](https://www.printables.com/model/284425-mini-cnc-jog)
 
 # CHAPTER II - SOFTWARE
 
