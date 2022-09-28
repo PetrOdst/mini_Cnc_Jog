@@ -18,14 +18,14 @@ Parts list
 
 ### 3DPrinting instruction
 Feel free to use your favorit settings, but this is what work out for me :
-* Material    : Pet-G [Prusament](https://www.prusa3d.com/cs/kategorie/prusament-petg/)
+* Material    : Pet-G [Prusament](https://www.prusa3d.com/cs/kategorie/prusament-petg/){:target="_blank"}
 * Layer hight : 0.20 mm
 * Infill      : 10%
 * Support     : no
 * brim        : no
 
 **!!NOTE!! - Knobs needs to be taller. Manually set models hight to 18mm in Slicer. don't forget to "unlock" rest dimensions.**  
-see at [Printables](https://www.printables.com/model/284425-mini-cnc-jog)
+see at [Printables](https://www.printables.com/model/284425-mini-cnc-jog){:target="_blank"}
 
 # CHAPTER II - SOFTWARE
 
