@@ -31,7 +31,7 @@ see at [Printables](https://www.printables.com/model/284425-mini-cnc-jog)
 
 For driving my CNC I use [UGS](https://github.com/winder/Universal-G-Code-Sender) and it supports keymaps export/import. My keymaps.zip for version01 is available in `/code` folder. You simply install it by clicking **Preferencis.../Options  -->  Keymap  -->  Import...** in Universal Gcode Sender. 
 
-### jog-Ver01
+### jog-Ver01.ino
 This very first version was made in a hurry fitt my needs. I was not meant to be modified or even understood. It is stable, but very messy and unorganized, therefore I highly recommend to use it as it is and leave it without customization.
 
 * Arduino IDE Code [Ver01](./code/jog_ver1)
@@ -39,7 +39,7 @@ This very first version was made in a hurry fitt my needs. I was not meant to be
 * [keymaps.zip](./code/keymaps.zip) 
 
 
-### jog-Ver02
+### jog-Ver02.ino
 This version is much more organized, easyer to understand and better prepared for future mods, but it is constantly in process and there might be some bugs. If you find some, please report it.
 
 * Arduino IDE Code [Ver02](./code/jog_ver2)
