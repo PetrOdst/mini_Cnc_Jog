@@ -24,6 +24,7 @@ Feel free to use your favorit settings, but this is what work out for me :
 * Support     : no
 * brim        : no
 
+**!!NOTE!! - Knobs needs to be taller. Manually set models hight to 18mm in Slicer. don't forget to "unlock" rest dimensions.**  
 see at [Printables](https://www.printables.com/model/284425-mini-cnc-jog)
 
 # CHAPTER II - SOFTWARE
