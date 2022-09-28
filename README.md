@@ -10,10 +10,10 @@ My idea was just to by able to move axies, chace step size/length and resetting 
 
 Parts list
 
-* Arduino Pro (Micro in my case from [ LaskaKit.cz ](https://www.laskakit.cz/arduino-leonardo-pro-micro/))
-* [Rotary Encoder module](https://www.laskakit.cz/rotacni-encoder-s-tlacitkem-a-rc-s-filtrem/)
-* [Arduino Pro Micro](https://www.laskakit.cz/arduino-leonardo-pro-micro/)
-* [Arduino Pro Micro](https://www.laskakit.cz/arduino-leonardo-pro-micro/)
+* Arduino Pro Micro (in my case from [LaskaKit.cz](https://www.laskakit.cz/arduino-leonardo-pro-micro/))
+* Rotary Encoder module (in my case from [LaskaKit.cz](https://www.laskakit.cz/rotacni-encoder-s-tlacitkem-a-rc-s-filtrem/))
+* OLED Display (in my case from [LaskaKit.cz](https://www.laskakit.cz/oled-displej-bily-128x64-0-96--i2c/))
+* PCB [fooprint/Schemas/IMG/PDG](../PCB)
 
 
 
