@@ -25,7 +25,8 @@ For driving my CNC I use [UGS](https://github.com/winder/Universal-G-Code-Sender
 ### jog-Ver01
 This very first version was made in a hurry fitt my needs. I was not meant to be modified or even understood. It is stable, but very messy and unorganized, therefore I highly recommend to use it as it is and leave it without customization.
 * Arduino IDE Code [Ver01](./code/jog_ver1)
-
+* [UGS](https://github.com/winder/Universal-G-Code-Sender)
+* [keymaps.zip](./code/keymaps.zip) 
 
 
 Made by  [Hodinový Maker](https://www.hodinovy-maker.cz)
