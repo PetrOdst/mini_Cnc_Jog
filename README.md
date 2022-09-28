@@ -20,7 +20,7 @@ Parts list
 
 # CHAPTER II - SOFTWARE
 
-For driving my CNC I use [UGS](https://github.com/winder/Universal-G-Code-Sender) and it supports keymaps export/import. My keymaps.zip for version01 is available in /code folder.
+For driving my CNC I use [UGS](https://github.com/winder/Universal-G-Code-Sender) and it supports keymaps export/import. My keymaps.zip for version01 is available in '/code folder. You simply install it by clicking **Preferencis.../Options  -->  Keymap  -->  Import...** in Universal Gcode Sender. 
 
 ### jog-Ver01
 This very first version was made in a hurry fitt my needs. I was not meant to be modified or even understood. It is stable, but very messy and unorganized, therefore I highly recommend to use it as it is and leave it without customization.
@@ -29,8 +29,14 @@ This very first version was made in a hurry fitt my needs. I was not meant to be
 * [keymaps.zip](./code/keymaps.zip) 
 
 
+### jog-Ver02
+This version is much more organized, easyer to understand and better prepared for future mods, but it is constantly in process.
+* Arduino IDE Code [Ver02](./code/jog_ver2)
+* [UGS](https://github.com/winder/Universal-G-Code-Sender)
+* [keymaps.zip](./code/keymaps.zip) 
+
+
 Made by  [Hodinový Maker](https://www.hodinovy-maker.cz)
 
-coming soon...
 
 
