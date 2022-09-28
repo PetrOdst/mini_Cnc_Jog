@@ -1,6 +1,8 @@
 # mini_cnc_jog
 Arduino Pro Micro based USB mini CNC jog remote controler
-![Algorithm schema](./images/schema.jpg)
+
+![Mini_CNC_Jog_Model_FilletTop2_withCode](./img/Mini_CNC_Jog_Model_FilletTop2_withCode.png)
+
 coming soon...
 
 
