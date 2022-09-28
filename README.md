@@ -14,7 +14,7 @@ Parts list
 * Rotary Encoder module (in my case from [LaskaKit.cz](https://www.laskakit.cz/rotacni-encoder-s-tlacitkem-a-rc-s-filtrem/))
 * OLED Display 0.96" 128x64  (in my case from [LaskaKit.cz](https://www.laskakit.cz/oled-displej-bily-128x64-0-96--i2c/))
 * PCB [fooprint/Schemas/IMG/PDG](https://github.com/PetrOdst/mini_cnc_jog/tree/main/PCB)
-* 3DPrinted Housing [STL](https://github.com/PetrOdst/mini_cnc_jog/tree/main/3Dmodels)
+* 3DPrinted Housing [STL](https://github.com/PetrOdst/mini_cnc_jog/tree/main/3Dmodels)/[Printables](https://www.printables.com/model/284425-mini-cnc-jog)
 
 ### 3DPrinting instruction
 Feel free to use your favorit settings, but this is what work out for me :
