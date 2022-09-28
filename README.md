@@ -20,9 +20,15 @@ Parts list
 
 # CHAPTER II - SOFTWARE
 
+For driving my CNC I use [UGS](https://github.com/winder/Universal-G-Code-Sender) and it supports keymaps export/import. My keymaps.zip for version01 is available in /code folder.
+
+### jog-Ver01
+Is stable, but very messy and unorganized therefore I highly recommend to use it as it is and leave it without customization  
+
 
 
 Made by  [Hodinový Maker](https://www.hodinovy-maker.cz)
+
 coming soon...
 
 
